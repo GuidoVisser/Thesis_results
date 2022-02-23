@@ -10,7 +10,7 @@
 
 # Ablation Study
 
-## Background Dynamics Regularization
+## Figure X | Background Dynamics Regularization
 With background dynamics regularization:
 ![With regularization](imgs/demo.gif)
 
