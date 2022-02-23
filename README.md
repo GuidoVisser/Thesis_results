@@ -6,3 +6,12 @@
 
 ## Video Completion
 ![scooter-black](imgs/demo.gif)
+
+
+# Ablation Study
+
+## Background Dynamics Regularization
+![With regularization]{imgs/dyn_ablation/full_reg.gif}
+![With only correlation regularization]{imgs/dyn_ablation/corr_reg.gif}
+![With only difference regularization]{imgs/dyn_ablation/diff_reg.gif}
+![Without regularization]{imgs/dyn_ablation/full_reg}
