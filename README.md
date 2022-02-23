@@ -11,7 +11,7 @@
 # Ablation Study
 
 ## Background Dynamics Regularization
-![With regularization]{imgs/dyn_ablation/full_reg.gif}
-![With only correlation regularization]{imgs/dyn_ablation/corr_reg.gif}
-![With only difference regularization]{imgs/dyn_ablation/diff_reg.gif}
-![Without regularization]{imgs/dyn_ablation/full_reg}
+![With regularization]{imgs/full_reg.gif}
+![With only correlation regularization]{imgs/corr_reg.gif}
+![With only difference regularization]{imgs/diff_reg.gif}
+![Without regularization]{imgs/full_reg}
