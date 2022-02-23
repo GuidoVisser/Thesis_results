@@ -25,11 +25,15 @@ With only the correlation term of the background dynamics regularization:
 
 ## Depth Reconstruction
 ### Figure X
+With depth:
 ![Busy intersection with depth reconstruction](imgs/depth_kruispunt.gif)
 
+Without depth:
 ![Busy intersection without depth reconstruction](imgs/kruispunt.gif)
 
 ### Figure X
+With depth:
 ![Dike with depth reconstruction](imgs/depth_nescio.gif)
 
+Without depth:
 ![Dike without depth reconstruction](imgs/nescio_2.gif)
