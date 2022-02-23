@@ -9,8 +9,8 @@
 
 
 # Ablation Study
-
-## Figure X | Background Dynamics Regularization
+## Background Dynamics Regularization
+### Figure X
 With background dynamics regularization:
 ![With regularization](imgs/demo.gif)
 
@@ -23,3 +23,13 @@ With only the difference term of the background dynamics regularization:
 With only the correlation term of the background dynamics regularization:
 ![With only difference regularization](imgs/diff_reg.gif)
 
+## Depth Reconstruction
+### Figure X
+![Busy intersection with depth reconstruction](imgs/depth_kruispunt.gif)
+
+![Busy intersection without depth reconstruction](imgs/kruispunt.gif)
+
+### Figure X
+![Dike with depth reconstruction](imgs/depth_nescio.gif)
+
+![Dike without depth reconstruction](imgs/nescio_2.gif)
