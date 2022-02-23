@@ -9,6 +9,14 @@
 
 
 # Ablation Study
+## Global Context Volume
+### Figure X
+With Global Context Volume
+![With context](imgs/amsterdamse_brug.gif)
+
+Without Global Context Volume
+![With context](imgs/amsterdamse_brug_no_att.gif)
+
 ## Background Dynamics Regularization
 ### Figure X
 With background dynamics regularization:
