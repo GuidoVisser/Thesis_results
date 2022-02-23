@@ -11,7 +11,15 @@
 # Ablation Study
 
 ## Background Dynamics Regularization
+With background dynamics regularization:
 ![With regularization](imgs/demo.gif)
-![With only correlation regularization](imgs/corr_reg.gif)
-![With only difference regularization](imgs/diff_reg.gif)
+
+Without background dynamics regularization:
 ![Without regularization](imgs/no_reg.gif)
+
+With only the difference term of the background dynamics regularization:
+![With only correlation regularization](imgs/corr_reg.gif)
+
+With only the correlation term of the background dynamics regularization:
+![With only difference regularization](imgs/diff_reg.gif)
+
