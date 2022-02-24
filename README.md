@@ -6,7 +6,7 @@
 
 #### Busy intersection with large background elements, occlusions, overlapping shadows and correlated movement
 Dynamatte:
-![kruispunt_rijks](imgs/dynamatte/kruispunt_rijks.gif)
+![kruispunt_rijks](imgs/dynamatte/kruispunt_rijks.gif)![kruispunt_rijks](imgs/omnimatte/kruispunt_rijks.gif)
 Omnimatte:
 ![kruispunt_rijks](imgs/omnimatte/kruispunt_rijks.gif)
 
