@@ -4,7 +4,7 @@
 
 ![](imgs/homography_demos/homography_nescio_2.gif)  |  ![](imgs/homography_demos/homography_kruispunt_rijks.gif)
 :-------------------------:|:-------------------------:
-Solarized dark             |  Solarized Ocean
+Noisy video             |  Busy intersection
 
 
 
