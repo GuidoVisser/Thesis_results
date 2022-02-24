@@ -91,76 +91,60 @@ Ground Truth	Dynamatte	Omnimatte	FGVC	Onion Peel
 
 #### Bridge with dynamic background elements
 Dynamatte:
-![amsterdamse_brug](imgs/dynamatte/amsterdamse_brug.gif)
-Omnimatte:
-![amsterdamse_brug](imgs/omnimatte/amsterdamse_brug.gif)
+![amsterdamse_brug](imgs/video_completion/vc_amsterdamse_brug.gif)
+Ground Truth	Dynamatte	Omnimatte	FGVC	Onion Peel
 
 #### Bike path with depth and dynamic background elements
 Dynamatte:
-![nescio_2](imgs/dynamatte/nescio_2.gif)
-Omnimatte:
-![nescio_2](imgs/omnimatte/nescio_2.gif)
+![nescio_2](imgs/video_completion/vc_nescio_2.gif)
+Ground Truth	Dynamatte	Omnimatte	FGVC	Onion Peel
 
 #### cyclist whose shadow overlaps with reeds
 Dynamatte:
-![ringdijk](imgs/dynamatte/ringdijk.gif)
-Omnimatte:
-![ringdijk](imgs/omnimatte/ringdijk.gif)
+![ringdijk](imgs/video_completion/vc_ringdijk.gif)
+Ground Truth	Dynamatte	Omnimatte	FGVC	Onion Peel
 
 #### Two foreground objects that occlude each other. Reflections of both foreground objects out-of-frame objects in the background
 Dynamatte:
-![raam_kruisend](imgs/dynamatte/raam_kruisend.gif)
-Omnimatte:
-![raam_kruisend](imgs/omnimatte/raam_kruisend.gif)
+![raam_kruisend](imgs/video_completion/vc_raam_kruisend.gif)
+Ground Truth	Dynamatte	Omnimatte	FGVC	Onion Peel
 
 #### DAVIS video's
 #### 'Hockey': some small dynamic elements in the background
 Dynamatte:
-![hockey](imgs/dynamatte/hockey.gif)
-Omnimatte:
-![hockey](imgs/omnimatte/hockey.gif)
-
+![hockey](imgs/video_completion/vc_hockey.gif)
+Ground Truth	Dynamatte	Omnimatte	FGVC	Onion Peel
 
 #### 'Dance-jump': Dynamic elements in the background and reed occluding the foreground object
 Dynamatte:
-![dance-jump](imgs/dynamatte/dance-jump.gif)
-Omnimatte:
-![dance-jump](imgs/omnimatte/dance-jump.gif)
+![dance-jump](imgs/video_completion/vc_dance-jump.gif)
+Ground Truth	Dynamatte	Omnimatte	FGVC	Onion Peel
 
 #### 'Rollerblade': Fully static scene
 Dynamatte:
-![rollerblade](imgs/dynamatte/rollerblade.gif)
-Omnimatte:
-![rollerblade](imgs/omnimatte/rollerblade.gif)
-
-### Foreground scene effects can get reconstructed in background
+![rollerblade](imgs/video_completion/vc_rollerblade.gif)
+Ground Truth	Dynamatte	Omnimatte	FGVC	Onion Peel
 
 #### 'drift-chicane': smoke caused by foreground object and a haze of smoke in the foreground
 Dynamatte:
-![drift-chicane](imgs/dynamatte/drift-chicane.gif)
-Omnimatte:
-![drift-chicane](imgs/omnimatte/drift-chicane.gif)
+![drift-chicane](imgs/video_completion/vc_drift-chicane.gif)
+Ground Truth	Dynamatte	Omnimatte	FGVC	Onion Peel
 
 #### 'Flamingo': Ripples in the water caused by foreground object
 Dynamatte:
-![flamingo](imgs/dynamatte/flamingo.gif)
-Omnimatte
-![flamingo](imgs/omnimatte/flamingo.gif)
+![flamingo](imgs/video_completion/vc_flamingo.gif)
+Ground Truth	Dynamatte	Omnimatte	FGVC	Onion Peel
 
-### Failure case: Homography induced jitter in static background
-![nescio_1](imgs/dynamatte/nescio_1.gif)
-
-### Failure case: parallax with static foreground elements
 #### 'Cows': The pole in the foreground causes the shadow of the cow to be reconstructed in background
-Dynamatte:
-![cows](imgs/dynamatte/cows.gif)
+![cows](imgs/video_completion/vc_cows.gif)
+Ground Truth	Dynamatte	Omnimatte	FGVC	Onion Peel
 
-### Failure case: Large camera movement
-![scooter-black](imgs/dynamatte/scooter-black.gif)
-![car-roundabout](imgs/dynamatte/car-roundabout.gif)
+#### 'Scooter-black': large camera movement with traffic in the background
+![scooter-black](imgs/video_completion/vc_scooter-black.gif)
+Ground Truth	Dynamatte	Omnimatte	FGVC	Onion Peel
 
-
-
+#### 'Car-roundabout': large camera movement with traffic in the background
+![car-roundabout](imgs/video_completion/vc_car-roundabout.gif)
 
 # Ablation Study
 ## Global Context Volume
