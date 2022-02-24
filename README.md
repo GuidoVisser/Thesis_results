@@ -1,6 +1,11 @@
 # Thesis_results
 
 ## Homography and Noise in the video's
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](imgs/homography_demos/homography_nescio_2.png)  |  ![](imgs/homography_demos/homography_kruispunt_rijks.png)
+
+
 
 ## Associating Scene effects to objects in dynamic scenes
 
