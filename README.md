@@ -1,9 +1,11 @@
 # Thesis_results
 
 ## Homography and Noise in the video's
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
+
 ![](imgs/homography_demos/homography_nescio_2.gif)  |  ![](imgs/homography_demos/homography_kruispunt_rijks.gif)
+:-------------------------:|:-------------------------:
+Solarized dark             |  Solarized Ocean
+
 
 
 
