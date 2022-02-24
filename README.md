@@ -3,7 +3,7 @@
 ## Homography and Noise in the video's
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](imgs/homography_demos/homography_nescio_2.png)  |  ![](imgs/homography_demos/homography_kruispunt_rijks.png)
+![](imgs/homography_demos/homography_nescio_2.gif)  |  ![](imgs/homography_demos/homography_kruispunt_rijks.gif)
 
 
 
