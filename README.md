@@ -23,6 +23,12 @@ Dynamatte:
 Omnimatte:
 ![amsterdamse_brug](imgs/omnimatte/amsterdamse_brug.gif)
 
+#### DAVIS: 'Scooter-black': 
+Dynamatte:
+![scooter-black](imgs/dynamatte/scooter-black.gif)
+Omnimatte:
+![scooter-black](imgs/omnimatte/scooter-black.gif)
+
 #### Bike path with depth and dynamic background elements
 Dynamatte:
 ![nescio_2](imgs/dynamatte/nescio_2.gif)
@@ -84,7 +90,7 @@ Dynamatte:
 ![cows](imgs/dynamatte/cows.gif)
 
 ### Failure case: Large camera movement
-![scooter-black](imgs/dynamatte/scooter-black.gif)
+
 ![car-roundabout](imgs/dynamatte/car-roundabout.gif)
 
 
