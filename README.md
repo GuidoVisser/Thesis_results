@@ -4,6 +4,12 @@
 
 ## Associating Scene effects to objects in dynamic scenes
 
+#### Busy intersection with large background elements, occlusions, overlapping shadows and correlated movement
+Dynamatte:
+![kruispunt_rijks](imgs/dynamatte/kruispunt_rijks.gif)
+Omnimatte:
+![kruispunt_rijks](imgs/omnimatte/kruispunt_rijks.gif)
+
 #### Bridge with dynamic background elements
 Dynamatte:
 ![amsterdamse_brug](imgs/dynamatte/amsterdamse_brug.gif)
@@ -21,12 +27,6 @@ Dynamatte:
 ![ringdijk](imgs/dynamatte/ringdijk.gif)
 Omnimatte:
 ![ringdijk](imgs/omnimatte/ringdijk.gif)
-
-#### Busy intersection with large background elements, occlusions, overlapping shadows and correlated movement
-Dynamatte:
-![kruispunt_rijks](imgs/dynamatte/kruispunt_rijks.gif)
-Omnimatte:
-![kruispunt_rijks](imgs/omnimatte/kruispunt_rijks.gif)
 
 #### Two foreground objects that occlude each other. Reflections of both foreground objects out-of-frame objects in the background
 Dynamatte:
