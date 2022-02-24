@@ -4,8 +4,34 @@
 
 ## Associating Scene effects to objects in dynamic scenes
 
+![amsterdamse_brug](imgs/amsterdamse_brug.gif)
+![nescio_2](imgs/nescio_2.gif)
+![ringdijk](imgs/ringdijk.gif)
+![kruispunt_rijks](imgs/kruispunt_rijks.gif)
+![raam_kruisend](imgs/raam_kruisend.gif)
+![hockey](imgs/hockey.gif)
+![amsterdamse_brug](imgs/.gif)
+![dance-jump](imgs/dance-jump.gif)
+![rollerblade](imgs/rollerblade.gif)
+
+### Foreground scene effects can get reconstructed in background
+![drift-chicane](imgs/drift-chicane.gif)
+![flamingo](imgs/flamingo.gif)
+
+
+### Failure case: Homography induced jitter in static background
+![nescio_1](imgs/nescio_1.gif)
+
+### Failure case: parallax with static foreground elements
+![cows](imgs/cows.gif)
+
+### Failure case: Large camera movement
+![scooter-black](imgs/scooter-black.gif)
+![car-roundabout](imgs/car-roundabout.gif)
+
+
+
 ## Video Completion
-![scooter-black](imgs/demo.gif)
 
 
 # Ablation Study
@@ -20,7 +46,7 @@ Without Global Context Volume
 ## Background Dynamics Regularization
 ### Figure X
 With background dynamics regularization:
-![With regularization](imgs/demo.gif)
+![With regularization](imgs/amsterdamse_brug.gif)
 
 Without background dynamics regularization:
 ![Without regularization](imgs/no_reg.gif)
