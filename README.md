@@ -63,7 +63,7 @@ With depth:
 ![Busy intersection with depth reconstruction](imgs/depth_kruispunt.gif)
 
 Without depth:
-![Busy intersection without depth reconstruction](imgs/kruispunt.gif)
+![Busy intersection without depth reconstruction](imgs/kruispunt_rijks.gif)
 
 ### Figure X
 With depth:
