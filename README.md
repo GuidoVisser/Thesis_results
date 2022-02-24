@@ -88,50 +88,36 @@ Dynamatte:
 ![kruispunt_rijks](imgs/video_completion/vc_kruispunt_rijks.gif)
 Ground Truth	Dynamatte	Omnimatte	FGVC	Onion Peel
 
-
 #### Bridge with dynamic background elements
-Dynamatte:
 ![amsterdamse_brug](imgs/video_completion/vc_amsterdamse_brug.gif)
 Ground Truth	Dynamatte	Omnimatte	FGVC	Onion Peel
 
 #### Bike path with depth and dynamic background elements
-Dynamatte:
 ![nescio_2](imgs/video_completion/vc_nescio_2.gif)
 Ground Truth	Dynamatte	Omnimatte	FGVC	Onion Peel
 
 #### cyclist whose shadow overlaps with reeds
-Dynamatte:
 ![ringdijk](imgs/video_completion/vc_ringdijk.gif)
 Ground Truth	Dynamatte	Omnimatte	FGVC	Onion Peel
 
-#### Two foreground objects that occlude each other. Reflections of both foreground objects out-of-frame objects in the background
-Dynamatte:
-![raam_kruisend](imgs/video_completion/vc_raam_kruisend.gif)
-Ground Truth	Dynamatte	Omnimatte	FGVC	Onion Peel
-
-#### DAVIS video's
+### DAVIS video's
 #### 'Hockey': some small dynamic elements in the background
-Dynamatte:
 ![hockey](imgs/video_completion/vc_hockey.gif)
 Ground Truth	Dynamatte	Omnimatte	FGVC	Onion Peel
 
 #### 'Dance-jump': Dynamic elements in the background and reed occluding the foreground object
-Dynamatte:
 ![dance-jump](imgs/video_completion/vc_dance-jump.gif)
 Ground Truth	Dynamatte	Omnimatte	FGVC	Onion Peel
 
 #### 'Rollerblade': Fully static scene
-Dynamatte:
 ![rollerblade](imgs/video_completion/vc_rollerblade.gif)
 Ground Truth	Dynamatte	Omnimatte	FGVC	Onion Peel
 
 #### 'drift-chicane': smoke caused by foreground object and a haze of smoke in the foreground
-Dynamatte:
 ![drift-chicane](imgs/video_completion/vc_drift-chicane.gif)
 Ground Truth	Dynamatte	Omnimatte	FGVC	Onion Peel
 
 #### 'Flamingo': Ripples in the water caused by foreground object
-Dynamatte:
 ![flamingo](imgs/video_completion/vc_flamingo.gif)
 Ground Truth	Dynamatte	Omnimatte	FGVC	Onion Peel
 
