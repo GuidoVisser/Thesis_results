@@ -10,7 +10,6 @@
 ![kruispunt_rijks](imgs/kruispunt_rijks.gif)
 ![raam_kruisend](imgs/raam_kruisend.gif)
 ![hockey](imgs/hockey.gif)
-![amsterdamse_brug](imgs/.gif)
 ![dance-jump](imgs/dance-jump.gif)
 ![rollerblade](imgs/rollerblade.gif)
 
