@@ -8,7 +8,7 @@
 ![nescio_2](imgs/dynamatte/nescio_2.gif)
 ![ringdijk](imgs/dynamatte/ringdijk.gif)
 ![kruispunt_rijks](imgs/dynamatte/kruispunt_rijks.gif)
-![raam_kruisend](imgs/dynamatte/aam_kruisend.gif)
+![raam_kruisend](imgs/dynamatte/raam_kruisend.gif)
 ![hockey](imgs/dynamatte/hockey.gif)
 ![dance-jump](imgs/dynamatte/dance-jump.gif)
 ![rollerblade](imgs/dynamatte/rollerblade.gif)
