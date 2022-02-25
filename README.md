@@ -30,7 +30,7 @@ Omnimatte:
 ![kruispunt_rijks](imgs/omnimatte/kruispunt_rijks.gif)
 Busy intersection with large background elements, occlusions, overlapping shadows and correlated movement.
 
-## Figure 4
+#### Figure 4
 
 ![](imgs/homography_demos/homography_kruispunt_rijks.gif)  |  ![](imgs/homography_demos/noise_homography_kruispunt.gif)
 :-------------------------:|:-------------------------:
@@ -45,12 +45,12 @@ Omnimatte:
 ![nescio_2](imgs/omnimatte/nescio_2.gif)
 The reconstruction of Omnimatte and Dynamatte on a noisy video.
 
-## Figure 6
+#### Figure 6
 ![](imgs/homography_demos/homography_nescio_2.gif)  |  ![](imgs/nescio_2_noise.gif)
 :-------------------------:|:-------------------------:
 Homography stabilization | After stabilization the video is still noisy
 
-## Figure 7
+#### Figure 7
 #### Figure 7a
 Dynamatte:
 ![ringdijk](imgs/dynamatte/ringdijk.gif)
@@ -69,12 +69,12 @@ Dynamatte:
 Omnimatte:
 ![drift-chicane](imgs/omnimatte/drift-chicane.gif)
 
-## Figure 8
+#### Figure 8
 ![nescio_1](imgs/homography_demos/homography_nescio_1.gif) | ![nescio_1](imgs/homography_demos/noise_homography_nescio_1.gif)
 :-------------------------:|:-------------------------:
 Homography stabilization | The input and video are misaligned.
 
-## Figure 9
+#### Figure 9
 Dynamatte:
 ![raam_kruisend](imgs/dynamatte/raam_kruisend.gif)
 Omnimatte:
@@ -107,53 +107,53 @@ A flamingo in the water. Omnimatte removes the ripples and reflection in the wat
 
 ## Video Completion
 
-### Figure 10
+#### Figure 10
 ![nescio_2](imgs/video_completion/vc_nescio_2.gif)
 Ground Truth |Dynamatte | Omnimatte | FGVC | Onion Peel
 
-### Figure 11
+#### Figure 11
 ![amsterdamse_brug](imgs/video_completion/vc_amsterdamse_brug.gif)
 Ground Truth |Dynamatte | Omnimatte | FGVC | Onion Peel
 
-### Figure 12
+#### Figure 12
 ![scooter-black](imgs/video_completion/vc_scooter-black.gif)
 Ground Truth |Dynamatte | Omnimatte | FGVC | Onion Peel
 
-### Figure 13
+#### Figure 13
 ![kruispunt_rijks](imgs/video_completion/vc_kruispunt_rijks.gif)
 Ground Truth |Dynamatte | Omnimatte | FGVC | Onion Peel
 
-### Figure 14
+#### Figure 14
 ![dance-jump](imgs/video_completion/vc_dance-jump.gif)
 Ground Truth |Dynamatte | Omnimatte | FGVC | Onion Peel
 
-### Figure 15
+#### Figure 15
 ![ringdijk](imgs/video_completion/vc_ringdijk.gif)
 Ground Truth |Dynamatte | Omnimatte | FGVC | Onion Peel
 
-### Figure 16 
+#### Figure 16 
 ![hockey](imgs/video_completion/vc_hockey.gif)
 Ground Truth |Dynamatte | Omnimatte | FGVC | Onion Peel
 
-### Figure 17
+#### Figure 17
 ![rollerblade](imgs/video_completion/vc_rollerblade.gif)
 Ground Truth |Dynamatte | Omnimatte | FGVC | Onion Peel
 
-### Figure 18
+#### Figure 18
 ![drift-chicane](imgs/video_completion/vc_drift-chicane.gif)
 Ground Truth |Dynamatte | Omnimatte | FGVC | Onion Peel
 
-### Figure 19
+#### Figure 19
 ![flamingo](imgs/video_completion/vc_flamingo.gif)
 Ground Truth |Dynamatte | Omnimatte | FGVC | Onion Peel
 
-### Figure 20
+#### Figure 20
 ![cows](imgs/video_completion/vc_cows.gif)
 Ground Truth |Dynamatte | Omnimatte | FGVC | Onion Peel
 
 # Ablation Study
 ## Global Context Volume
-### Figure X
+#### Figure X
 With Global Context Volume
 ![With context](imgs/dynamatte/amsterdamse_brug.gif)
 
@@ -161,7 +161,7 @@ Without Global Context Volume
 ![With context](imgs/ablations/amsterdamse_brug_no_att.gif)
 
 ## Background Dynamics Regularization
-### Figure X
+#### Figure X
 With background dynamics regularization:
 ![With regularization](imgs/dynamatte/amsterdamse_brug.gif)
 
@@ -175,14 +175,14 @@ With only the correlation term of the background dynamics regularization:
 ![With only difference regularization](imgs/ablations/diff_reg.gif)
 
 ## Depth Reconstruction
-### Figure X
+#### Figure X
 With depth:
 ![Busy intersection with depth reconstruction](imgs/ablations/depth_kruispunt.gif)
 
 Without depth:
 ![Busy intersection without depth reconstruction](imgs/dynamatte/kruispunt_rijks.gif)
 
-### Figure X
+#### Figure X
 With depth:
 ![Dike with depth reconstruction](imgs/ablations/depth_nescio.gif)
 
