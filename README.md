@@ -44,6 +44,12 @@ Dynamatte:
 Omnimatte:
 ![nescio_2](imgs/omnimatte/nescio_2.gif)
 
+## Figure 6
+![](imgs/homography_demos/nescio_2.gif)  |  ![](imgs/nescio_2_noise.gif)
+:-------------------------:|:-------------------------:
+Homography stabilization |  Homography-based sampling
+
+
 #### cyclist whose shadow overlaps with reeds
 Dynamatte:
 ![ringdijk](imgs/dynamatte/ringdijk.gif)
