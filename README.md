@@ -69,7 +69,7 @@ Omnimatte:
 ## Figure 8
 ![nescio_1](imgs/homography_demos/homography_nescio_1.gif) | ![nescio_1](imgs/homography_demos/noise_homography_nescio_1.gif)
 :-------------------------:|:-------------------------:
-Homography stabilization | The input and video are misaligned. In the bottom left of the video this effect is strong when the shadow of the cyclist overlaps with this region.
+Homography stabilization | The input and video are misaligned.
 
 
 #### Two foreground objects that occlude each other. Reflections of both foreground objects out-of-frame objects in the background
