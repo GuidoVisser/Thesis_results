@@ -51,16 +51,19 @@ The reconstruction of Omnimatte and Dynamatte on a noisy video.
 Homography stabilization | After stabilization the video is still noisy
 
 ## Figure 7
+#### Figure 7a
 Dynamatte:
 ![ringdijk](imgs/dynamatte/ringdijk.gif)
 Omnimatte:
 ![ringdijk](imgs/omnimatte/ringdijk.gif)
 
+#### Figure 7b
 Dynamatte:
 ![nescio_1](imgs/dynamatte/nescio_1.gif)
 Omnimatte:
 ![nescio_1](imgs/omnimatte/nescio_1.gif)
 
+#### Figure 7c
 Dynamatte:
 ![drift-chicane](imgs/dynamatte/drift-chicane.gif)
 Omnimatte:
@@ -71,48 +74,36 @@ Omnimatte:
 :-------------------------:|:-------------------------:
 Homography stabilization | The input and video are misaligned.
 
-
-#### Two foreground objects that occlude each other. Reflections of both foreground objects out-of-frame objects in the background
+## Figure 9
 Dynamatte:
 ![raam_kruisend](imgs/dynamatte/raam_kruisend.gif)
 Omnimatte:
 ![raam_kruisend](imgs/omnimatte/raam_kruisend.gif)
+Two foreground objects that occlude each other. Reflections of both foreground objects out-of-frame objects in the background
 
-#### DAVIS video's
-#### 'Hockey': some small dynamic elements in the background
 Dynamatte:
 ![hockey](imgs/dynamatte/hockey.gif)
 Omnimatte:
 ![hockey](imgs/omnimatte/hockey.gif)
+A street hockey player. The puck is correctly associated to the foreground layer by both Omnimatte and Dynamatte. There are some dynamic elements in the background.
 
-
-
-
-#### 'Dance-jump': Dynamic elements in the background and reed occluding the foreground object
 Dynamatte:
 ![dance-jump](imgs/dynamatte/dance-jump.gif)
 Omnimatte:
 ![dance-jump](imgs/omnimatte/dance-jump.gif)
+A dancer that is partially occluded by reeds in the foreground. There are some moving people in the background.
 
-#### 'Rollerblade': Fully static scene
 Dynamatte:
 ![rollerblade](imgs/dynamatte/rollerblade.gif)
 Omnimatte:
 ![rollerblade](imgs/omnimatte/rollerblade.gif)
+A person on rollerblades jumping. This is a simple scene with no dynamic background elements and not a lot of noise or depth. Both Omnimatte and Dynamatte perform well.
 
-#### 'Flamingo': Ripples in the water caused by foreground object
 Dynamatte:
 ![flamingo](imgs/dynamatte/flamingo.gif)
 Omnimatte
 ![flamingo](imgs/omnimatte/flamingo.gif)
-
-### Failure case: Homography induced jitter in static background
-
-
-### Failure case: parallax with static foreground elements
-#### 'Cows': The pole in the foreground causes the shadow of the cow to be reconstructed in background
-Dynamatte:
-![cows](imgs/dynamatte/cows.gif)
+A flamingo in the water. Omnimatte removes the ripples and reflection in the water better that Dynamatte.
 
 ## Video Completion
 
