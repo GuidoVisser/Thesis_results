@@ -148,16 +148,8 @@ Ground Truth |Dynamatte | Omnimatte | FGVC | Onion Peel
 Ground Truth |Dynamatte | Omnimatte | FGVC | Onion Peel
 
 # Ablation Study
-## Global Context Volume
-#### Figure X
-With Global Context Volume
-![With context](imgs/dynamatte/amsterdamse_brug.gif)
-
-Without Global Context Volume
-![With context](imgs/ablations/amsterdamse_brug_no_att.gif)
-
 ## Background Dynamics Regularization
-#### Figure X
+#### Figure 20
 With background dynamics regularization:
 ![With regularization](imgs/dynamatte/amsterdamse_brug.gif)
 
@@ -170,15 +162,23 @@ With only the difference term of the background dynamics regularization:
 With only the correlation term of the background dynamics regularization:
 ![With only difference regularization](imgs/ablations/diff_reg.gif)
 
+## Global Context Volume
+#### Figure 21
+With Global Context Volume
+![With context](imgs/dynamatte/amsterdamse_brug.gif)
+
+Without Global Context Volume
+![With context](imgs/ablations/amsterdamse_brug_no_att.gif)
+
 ## Depth Reconstruction
-#### Figure X
+#### Figure 22
 With depth:
 ![Busy intersection with depth reconstruction](imgs/ablations/depth_kruispunt.gif)
 
 Without depth:
 ![Busy intersection without depth reconstruction](imgs/dynamatte/kruispunt_rijks.gif)
 
-#### Figure X
+#### Figure 23
 With depth:
 ![Dike with depth reconstruction](imgs/ablations/depth_nescio.gif)
 
