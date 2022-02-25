@@ -45,7 +45,7 @@ Omnimatte:
 ![nescio_2](imgs/omnimatte/nescio_2.gif)
 
 ## Figure 6
-![](imgs/homography_demos/nescio_2.gif)  |  ![](imgs/nescio_2_noise.gif)
+![](imgs/homography_demos/homography_nescio_2.gif)  |  ![](imgs/nescio_2_noise.gif)
 :-------------------------:|:-------------------------:
 Homography stabilization | After stabilization the video is still noisy
 
