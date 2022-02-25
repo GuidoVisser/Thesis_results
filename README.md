@@ -1,10 +1,6 @@
 # Thesis_results
 
-## Homography and Noise in the video's
 
-![](imgs/homography_demos/homography_kruispunt_rijks.gif)  |  ![](imgs/homography_demos/noise_homography_kruispunt.gif)
-:-------------------------:|:-------------------------:
-Noisy video             |  Busy intersection
 
 
 
@@ -33,6 +29,14 @@ Dynamatte:
 Omnimatte:
 ![kruispunt_rijks](imgs/omnimatte/kruispunt_rijks.gif)
 Busy intersection with large background elements, occlusions, overlapping shadows and correlated movement.
+
+## Figure 4
+
+![](imgs/homography_demos/homography_kruispunt_rijks.gif)  |  ![](imgs/homography_demos/noise_homography_kruispunt.gif)
+:-------------------------:|:-------------------------:
+Homography stabilization |  Homography-based sampling
+
+The bad homography estimation of the video causes misalignment between the noise input and the scene.
 
 #### Bike path with depth and dynamic background elements
 Dynamatte:
