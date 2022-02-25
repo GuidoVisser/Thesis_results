@@ -2,7 +2,7 @@
 
 ## Homography and Noise in the video's
 
-![](imgs/homography_demos/homography_nescio_2.gif)  |  ![](imgs/homography_demos/homography_kruispunt_rijks.gif)
+![](imgs/homography_demos/homography_kruispunt_rijks.gif)  |  ![](imgs/homography_demos/noise_homography_kruispunt.gif)
 :-------------------------:|:-------------------------:
 Noisy video             |  Busy intersection
 
@@ -27,11 +27,12 @@ Omnimatte:
 The reconstruction of a scene with two cyclists. On the left are dynamic background elements in the form of people doing a sports class, another cyclist and cars upon the bridge. Dynamatte partially reconstructs the dynamic scene elements in the background layer, whereas Omnimatte reconstructs all dynamic elements divided over the foreground object layers.
 Omnimatte also reconstructs parts of the bike stands in the foreground layer due to errors in the homography estimation of the scene.
 
-#### Busy intersection with large background elements, occlusions, overlapping shadows and correlated movement
+#### Figure 3
 Dynamatte:
 ![kruispunt_rijks](imgs/dynamatte/kruispunt_rijks.gif)
 Omnimatte:
 ![kruispunt_rijks](imgs/omnimatte/kruispunt_rijks.gif)
+Busy intersection with large background elements, occlusions, overlapping shadows and correlated movement.
 
 #### Bike path with depth and dynamic background elements
 Dynamatte:
