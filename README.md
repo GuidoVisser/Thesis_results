@@ -11,23 +11,27 @@ Noisy video             |  Busy intersection
 
 ## Associating Scene effects to objects in dynamic scenes
 
+
+#### Figure 1 
+Dynamatte:
+![scooter-black](imgs/dynamatte/scooter-black.gif)
+Omnimatte:
+![scooter-black](imgs/omnimatte/scooter-black.gif)
+Comparison between Omnimatte and Dynamatte on a scene with dynamic traffic in the background. Omnimatte reconstructs this traffic in the foreground layer and Dynamatte reconstructs it in the background.
+
+#### Figure 2
+Dynamatte:
+![amsterdamse_brug](imgs/dynamatte/amsterdamse_brug.gif)
+Omnimatte:
+![amsterdamse_brug](imgs/omnimatte/amsterdamse_brug.gif)
+The reconstruction of a scene with two cyclists. On the left are dynamic background elements in the form of people doing a sports class, another cyclist and cars upon the bridge. Dynamatte partially reconstructs the dynamic scene elements in the background layer, whereas Omnimatte reconstructs all dynamic elements divided over the foreground object layers.
+Omnimatte also reconstructs parts of the bike stands in the foreground layer due to errors in the homography estimation of the scene.
+
 #### Busy intersection with large background elements, occlusions, overlapping shadows and correlated movement
 Dynamatte:
 ![kruispunt_rijks](imgs/dynamatte/kruispunt_rijks.gif)
 Omnimatte:
 ![kruispunt_rijks](imgs/omnimatte/kruispunt_rijks.gif)
-
-#### Bridge with dynamic background elements
-Dynamatte:
-![amsterdamse_brug](imgs/dynamatte/amsterdamse_brug.gif)
-Omnimatte:
-![amsterdamse_brug](imgs/omnimatte/amsterdamse_brug.gif)
-
-#### DAVIS: 'Scooter-black': 
-Dynamatte:
-![scooter-black](imgs/dynamatte/scooter-black.gif)
-Omnimatte:
-![scooter-black](imgs/omnimatte/scooter-black.gif)
 
 #### Bike path with depth and dynamic background elements
 Dynamatte:
@@ -88,12 +92,6 @@ Omnimatte
 #### 'Cows': The pole in the foreground causes the shadow of the cow to be reconstructed in background
 Dynamatte:
 ![cows](imgs/dynamatte/cows.gif)
-
-### Failure case: Large camera movement
-
-![car-roundabout](imgs/dynamatte/car-roundabout.gif)
-
-
 
 ## Video Completion
 
@@ -157,7 +155,7 @@ Without Global Context Volume
 ## Background Dynamics Regularization
 ### Figure X
 With background dynamics regularization:
-![With regularization](imgs/dynamtte/amsterdamse_brug.gif)
+![With regularization](imgs/dynamatte/amsterdamse_brug.gif)
 
 Without background dynamics regularization:
 ![Without regularization](imgs/ablations/no_reg.gif)
