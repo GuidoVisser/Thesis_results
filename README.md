@@ -109,48 +109,48 @@ A flamingo in the water. Omnimatte removes the ripples and reflection in the wat
 
 #### Busy intersection with large background elements, occlusions, overlapping shadows and correlated movement
 ![kruispunt_rijks](imgs/video_completion/vc_kruispunt_rijks.gif)
-Ground Truth	Dynamatte	Omnimatte	FGVC	Onion Peel
+Ground Truth |Dynamatte | Omnimatte | FGVC | Onion Peel
 
 #### Bridge with dynamic background elements
 ![amsterdamse_brug](imgs/video_completion/vc_amsterdamse_brug.gif)
-Ground Truth	Dynamatte	Omnimatte	FGVC	Onion Peel
+Ground Truth |Dynamatte | Omnimatte | FGVC | Onion Peel
 
 #### Bike path with depth and dynamic background elements
 ![nescio_2](imgs/video_completion/vc_nescio_2.gif)
-Ground Truth	Dynamatte	Omnimatte	FGVC	Onion Peel
+Ground Truth |Dynamatte | Omnimatte | FGVC | Onion Peel
 
 #### cyclist whose shadow overlaps with reeds
 ![ringdijk](imgs/video_completion/vc_ringdijk.gif)
-Ground Truth	Dynamatte	Omnimatte	FGVC	Onion Peel
+Ground Truth |Dynamatte | Omnimatte | FGVC | Onion Peel
 
 ### DAVIS video's
 #### 'Hockey': some small dynamic elements in the background
 ![hockey](imgs/video_completion/vc_hockey.gif)
-Ground Truth	Dynamatte	Omnimatte	FGVC	Onion Peel
+Ground Truth |Dynamatte | Omnimatte | FGVC | Onion Peel
 
 #### 'Dance-jump': Dynamic elements in the background and reed occluding the foreground object
 ![dance-jump](imgs/video_completion/vc_dance-jump.gif)
-Ground Truth	Dynamatte	Omnimatte	FGVC	Onion Peel
+Ground Truth |Dynamatte | Omnimatte | FGVC | Onion Peel
 
 #### 'Rollerblade': Fully static scene
 ![rollerblade](imgs/video_completion/vc_rollerblade.gif)
-Ground Truth	Dynamatte	Omnimatte	FGVC	Onion Peel
+Ground Truth |Dynamatte | Omnimatte | FGVC | Onion Peel
 
 #### 'drift-chicane': smoke caused by foreground object and a haze of smoke in the foreground
 ![drift-chicane](imgs/video_completion/vc_drift-chicane.gif)
-Ground Truth	Dynamatte	Omnimatte	FGVC	Onion Peel
+Ground Truth |Dynamatte | Omnimatte | FGVC | Onion Peel
 
 #### 'Flamingo': Ripples in the water caused by foreground object
 ![flamingo](imgs/video_completion/vc_flamingo.gif)
-Ground Truth	Dynamatte	Omnimatte	FGVC	Onion Peel
+Ground Truth |Dynamatte | Omnimatte | FGVC | Onion Peel
 
 #### 'Cows': The pole in the foreground causes the shadow of the cow to be reconstructed in background
 ![cows](imgs/video_completion/vc_cows.gif)
-Ground Truth	Dynamatte	Omnimatte	FGVC	Onion Peel
+Ground Truth |Dynamatte | Omnimatte | FGVC | Onion Peel
 
 #### 'Scooter-black': large camera movement with traffic in the background
 ![scooter-black](imgs/video_completion/vc_scooter-black.gif)
-Ground Truth	Dynamatte	Omnimatte	FGVC	Onion Peel
+Ground Truth |Dynamatte | Omnimatte | FGVC | Onion Peel
 
 #### 'Car-roundabout': large camera movement with traffic in the background
 ![car-roundabout](imgs/video_completion/vc_car-roundabout.gif)
