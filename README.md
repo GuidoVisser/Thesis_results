@@ -38,23 +38,39 @@ Homography stabilization |  Homography-based sampling
 
 The bad homography estimation of the video causes misalignment between the noise input and the scene.
 
-#### Bike path with depth and dynamic background elements
+#### Figure 5
 Dynamatte:
 ![nescio_2](imgs/dynamatte/nescio_2.gif)
 Omnimatte:
 ![nescio_2](imgs/omnimatte/nescio_2.gif)
+The reconstruction of Omnimatte and Dynamatte on a noisy video.
 
 ## Figure 6
 ![](imgs/homography_demos/homography_nescio_2.gif)  |  ![](imgs/nescio_2_noise.gif)
 :-------------------------:|:-------------------------:
 Homography stabilization | After stabilization the video is still noisy
 
-
-#### cyclist whose shadow overlaps with reeds
+## Figure 7
 Dynamatte:
 ![ringdijk](imgs/dynamatte/ringdijk.gif)
 Omnimatte:
 ![ringdijk](imgs/omnimatte/ringdijk.gif)
+
+Dynamatte:
+![nescio_1](imgs/dynamatte/nescio_1.gif)
+Omnimatte:
+![nescio_1](imgs/omnimatte/nescio_1.gif)
+
+Dynamatte:
+![drift-chicane](imgs/dynamatte/drift-chicane.gif)
+Omnimatte:
+![drift-chicane](imgs/omnimatte/drift-chicane.gif)
+
+## Figure 8
+![nescio_1](imgs/homography_demos/homography_nescio_1.gif) | ![nescio_1](imgs/homography_demos/noise_homography_nescio_1.gif)
+:-------------------------:|:-------------------------:
+Homography stabilization | The input and video are misaligned. In the bottom left of the video this effect is strong when the shadow of the cyclist overlaps with this region.
+
 
 #### Two foreground objects that occlude each other. Reflections of both foreground objects out-of-frame objects in the background
 Dynamatte:
@@ -70,6 +86,8 @@ Omnimatte:
 ![hockey](imgs/omnimatte/hockey.gif)
 
 
+
+
 #### 'Dance-jump': Dynamic elements in the background and reed occluding the foreground object
 Dynamatte:
 ![dance-jump](imgs/dynamatte/dance-jump.gif)
@@ -82,14 +100,6 @@ Dynamatte:
 Omnimatte:
 ![rollerblade](imgs/omnimatte/rollerblade.gif)
 
-### Foreground scene effects can get reconstructed in background
-
-#### 'drift-chicane': smoke caused by foreground object and a haze of smoke in the foreground
-Dynamatte:
-![drift-chicane](imgs/dynamatte/drift-chicane.gif)
-Omnimatte:
-![drift-chicane](imgs/omnimatte/drift-chicane.gif)
-
 #### 'Flamingo': Ripples in the water caused by foreground object
 Dynamatte:
 ![flamingo](imgs/dynamatte/flamingo.gif)
@@ -97,7 +107,7 @@ Omnimatte
 ![flamingo](imgs/omnimatte/flamingo.gif)
 
 ### Failure case: Homography induced jitter in static background
-![nescio_1](imgs/dynamatte/nescio_1.gif)
+
 
 ### Failure case: parallax with static foreground elements
 #### 'Cows': The pole in the foreground causes the shadow of the cow to be reconstructed in background
