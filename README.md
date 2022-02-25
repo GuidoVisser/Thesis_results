@@ -47,7 +47,7 @@ Omnimatte:
 ## Figure 6
 ![](imgs/homography_demos/nescio_2.gif)  |  ![](imgs/nescio_2_noise.gif)
 :-------------------------:|:-------------------------:
-Homography stabilization |  Homography-based sampling
+Homography stabilization | After stabilization the video is still noisy
 
 
 #### cyclist whose shadow overlaps with reeds
