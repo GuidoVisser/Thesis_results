@@ -147,10 +147,6 @@ Ground Truth |Dynamatte | Omnimatte | FGVC | Onion Peel
 ![flamingo](imgs/video_completion/vc_flamingo.gif)
 Ground Truth |Dynamatte | Omnimatte | FGVC | Onion Peel
 
-#### Figure 20
-![cows](imgs/video_completion/vc_cows.gif)
-Ground Truth |Dynamatte | Omnimatte | FGVC | Onion Peel
-
 # Ablation Study
 ## Global Context Volume
 #### Figure X
